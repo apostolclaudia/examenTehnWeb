@@ -1,0 +1,11 @@
+ /* @import url("https://fonts.google.com/specimen/Poppins?query=popp"); */
+* {
+  margin: 10px;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*:focus{
+  outline: none;
+}
